@@ -1,0 +1,1 @@
+{"init_progr_len": 5, "max_progr_len": 5, "max_sk_sz": 5, "vars": ["s(0)", "s(1)", "s(2)"], "src_ws": ["s(0)", "s(1)", "s(2)"], "tgt_ws": ["s(2)", 1], "user_instrs": [], "current_cost": 13, "storage_dependences": [], "memory_dependences": [], "original_instrs": ["PUSH1", "SWAP3", "SWAP2", "POP", "POP"]}
