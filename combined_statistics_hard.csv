@@ -1,0 +1,5 @@
+,category,hitting_set_time,z3_time,oms_time,hitting_set_instructions_saved,z3_instructions_saved,oms_instructions_saved,hitting_set_#model,z3_#model,oms_#model,hitting_set_#found_optimal,z3_#found_optimal,oms_#found_optimal,hard_time,hard_instructions_saved
+0,model_found_times_cost,4906.929999999999,4245.1539999999995,2469.19,213.0,108.0,171.0,119,127,127,60,84,102,1819.2299999999998,2.0
+1,no_model_found_oms_times_cost,760.17,750.0060000000001,751.671,25.0,0.0,0.0,13,22,0,0,0,0,624.4,6.0
+2,no_model_found_z3_times_cost,530.99,529.8960000000001,523.3320000000001,20.0,0.0,26.0,10,0,15,1,0,2,504.1499999999999,0.0
+3,no_model_found_times_cost,2418.58,2410.4660000000003,2416.295,40.0,0.0,0.0,19,0,0,0,0,0,2289.0400000000004,0.0

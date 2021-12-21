@@ -525,8 +525,8 @@ def main(directory, results_filename):
             block_name = file.split("/")[-1].rstrip("_input_z3.smt2")
             row_info = {"block_id": block_name}
             init()
-            s = Solver()
-            s2 = Solver()
+            s = SolverFor("QF_LIA")
+            s2 = SolverFor("QF_LIA")
             opt = Optimize()
             opt.from_file(file)
             s.add(opt.assertions())
@@ -558,7 +558,7 @@ def main(directory, results_filename):
             end = timer()
 
             row_info["hard_time_in_sec"] = round(end - start, 2)
-            row_info["hard_is_sat"] = is_sat
+            row_info["hard_is_sat"] = is_sat == sat
 
             if is_sat == sat:
                 model_from_z3 = s2.model()
@@ -588,46 +588,6 @@ def main(directory, results_filename):
                 models_found.append(solution_found)
                 nop_per_model.append(nop_instructions)
 
-            # Let's check if a model is found in the same time it took 
-            if hs.model is not None:
-
-                row_info["z3_is_model_found"] = []
-                row_info["z3_found_model"] = []
-                row_info["z3_cost_found"] = []
-                row_info["z3_time_in_sec"] = []
-
-                prev_cost = nop_per_model[0] - 1
-                
-                for tout_time, cost in zip(hs.found_model_times, nop_per_model):
-                    if cost <= prev_cost:
-                        continue
-
-                    prev_cost = cost
-
-                    opt.set("timeout", int(tout_time * 1000))
-
-                    start = timer()
-                    opt.check()
-                    end = timer()
-
-                    row_info["z3_time_in_sec"].append(round(end - start, 2))
-                    
-                    # No model was found
-                    if opt.model().decls() != []:
-                        model_from_z3 = opt.model()
-                        solution_found, nop_instructions = extract_relevant_info_from_model(model_from_z3, theta_dict)
-
-                        row_info["z3_is_model_found"].append(True)
-                        row_info["z3_found_model"].append(solution_found)
-                        row_info["z3_cost_found"].append(nop_instructions)
-                        # row_info["ratio_approaches"] = row_info["solver_time_in_sec"] / row_info["z3_time_in_sec"]
-
-                    else:
-                        row_info["z3_is_model_found"].append(False)
-                        row_info["z3_found_model"].append("No solution")
-                        row_info["z3_cost_found"].append(-1)
-
-
             row_info["models_found"] = models_found
             row_info["cost_per_model_found"] = nop_per_model
 
@@ -635,17 +595,17 @@ def main(directory, results_filename):
             row_info["lower_bound"] = hs.lo     # Current lower bound
             row_info["upper_bound"] = hs.hi     # Current upper bound
             row_info["found_model_times"] = hs.found_model_times
+            row_info["timeout_in_s"] = timeout_in_s
 
             rows_list.append(row_info)
         
         except Exception as e: 
-            print(e)
+            traceback.print_exc()
             wrong_files.append(block_name)
 
-    df = pd.DataFrame(rows_list, columns=['block_id', "solver_time_in_sec", 'has_model', 'finished_execution', 'lower_bound', 'upper_bound', 
-                                            'models_found', 'cost_per_model_found', 'found_model_times', 'z3_time_in_sec', 'z3_is_model_found', 
-                                            'z3_found_model', 'z3_cost_found''z3_time_in_sec', 'hard_is_sat', 'hard_time_in_sec', 'hard_found_model', 
-                                            'hard_cost_found'])
+    df = pd.DataFrame(rows_list, columns=['block_id', "timeout_in_s", "solver_time_in_sec", 'has_model', 'finished_execution',
+                                          'lower_bound', 'upper_bound',  'models_found', 'cost_per_model_found', 'found_model_times',
+                                          'hard_is_sat', 'hard_time_in_sec', 'hard_found_model', 'hard_cost_found'])
     df.to_csv(results_filename)
     print("Wrong files:", *wrong_files)
 
@@ -655,5 +615,6 @@ def main(directory, results_filename):
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2])
         
+    
     
 

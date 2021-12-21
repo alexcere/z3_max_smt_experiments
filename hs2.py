@@ -480,7 +480,7 @@ def main(file):
     opt.from_file(file)
     s.add(opt.assertions())
 
-
+    s.get("logic")
     start = timer()
     s.check()
     end = timer()
