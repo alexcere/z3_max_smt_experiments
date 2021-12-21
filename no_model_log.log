@@ -1,62 +1,79 @@
 Reduce 28 -> 14 iterations 14 unknown 0
 Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 8 iterations 9 unknown 0
-Reduce 26 -> 8 iterations 8 unknown 0
-Reduce 25 -> 7 iterations 8 unknown 0
-Reduce 24 -> 7 iterations 7 unknown 0
-Reduce 23 -> 6 iterations 7 unknown 0
-Reduce 22 -> 6 iterations 7 unknown 0
-Reduce 21 -> 6 iterations 6 unknown 0
-Reduce 20 -> 5 iterations 6 unknown 0
-Reduce 19 -> 5 iterations 5 unknown 0
-Reduce 18 -> 5 iterations 5 unknown 0
-Reduce 17 -> 4 iterations 5 unknown 0
-Reduce 16 -> 4 iterations 4 unknown 0
-Reduce 15 -> 3 iterations 4 unknown 0
-Reduce 14 -> 3 iterations 3 unknown 0
-Reduce 13 -> 3 iterations 3 unknown 0
-Reduce 12 -> 2 iterations 3 unknown 0
-Reduce 11 -> 2 iterations 3 unknown 0
-Reduce 10 -> 2 iterations 2 unknown 0
-Reduce 9 -> 1 iterations 2 unknown 0
-Reduce 8 -> 1 iterations 2 unknown 0
-Reduce 7 -> 1 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 27 -> 13 iterations 14 unknown 0
+Reduce 26 -> 10 iterations 10 unknown 0
+Reduce 25 -> 9 iterations 10 unknown 0
+Reduce 24 -> 9 iterations 9 unknown 0
+Reduce 23 -> 8 iterations 9 unknown 0
+Reduce 22 -> 8 iterations 8 unknown 0
+Reduce 21 -> 7 iterations 8 unknown 0
+Reduce 20 -> 7 iterations 7 unknown 0
+Reduce 19 -> 6 iterations 7 unknown 0
+Reduce 18 -> 6 iterations 6 unknown 0
+Reduce 17 -> 6 iterations 6 unknown 0
+Reduce 16 -> 5 iterations 6 unknown 0
+Reduce 15 -> 5 iterations 5 unknown 0
+Reduce 14 -> 4 iterations 5 unknown 0
+Reduce 13 -> 5 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 3 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
 unknown
 total number of cores 29
 total number of correction sets 0
 maxsat [ 0 ,  28 ] offset 0
-[(1, 7), (2, 3), (3, 4), (4, 3), (5, 3), (6, 3), (7, 2), (8, 2), (14, 2)]
+[(1, 1), (2, 2), (3, 5), (4, 4), (5, 4), (6, 3), (7, 2), (8, 2), (9, 2), (10, 1), (13, 1), (14, 2)]
 []
-New offset 9
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 13 iterations 14 unknown 0
-Reduce 36 -> 13 iterations 13 unknown 0
-Reduce 35 -> 12 iterations 13 unknown 0
-Reduce 34 -> 12 iterations 12 unknown 0
-Reduce 33 -> 11 iterations 12 unknown 0
-Reduce 32 -> 11 iterations 11 unknown 0
-Reduce 31 -> 10 iterations 11 unknown 0
-Reduce 30 -> 10 iterations 10 unknown 0
-Reduce 29 -> 9 iterations 10 unknown 0
-Reduce 28 -> 9 iterations 9 unknown 0
-Reduce 27 -> 8 iterations 9 unknown 0
-Reduce 26 -> 8 iterations 8 unknown 0
-Reduce 25 -> 8 iterations 8 unknown 0
-Reduce 24 -> 7 iterations 8 unknown 0
-Reduce 23 -> 7 iterations 7 unknown 0
-Reduce 22 -> 6 iterations 7 unknown 0
-Reduce 21 -> 6 iterations 7 unknown 0
-Reduce 20 -> 6 iterations 6 unknown 0
-Reduce 19 -> 5 iterations 6 unknown 0
+New offset 3
+Reduce 38 -> 14 iterations 14 unknown 0
+Reduce 28 -> 14 iterations 14 unknown 0
+Reduce 27 -> 13 iterations 14 unknown 0
+Reduce 26 -> 13 iterations 13 unknown 0
+Reduce 25 -> 12 iterations 13 unknown 0
+Reduce 24 -> 12 iterations 12 unknown 0
+Reduce 23 -> 11 iterations 12 unknown 0
+Reduce 22 -> 11 iterations 11 unknown 0
+Reduce 21 -> 10 iterations 11 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 9 iterations 10 unknown 0
+Reduce 18 -> 9 iterations 9 unknown 0
+Reduce 17 -> 5 iterations 9 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 4 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 4 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 4 iterations 4 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 29
+total number of correction sets 0
+maxsat [ 0 ,  39 ] offset 0
+[(1, 1), (2, 1), (3, 4), (4, 6), (5, 2), (7, 2), (8, 1), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2)]
+[]
+New offset 2
+Reduce 24 -> 12 iterations 12 unknown 0
+Reduce 24 -> 12 iterations 12 unknown 0
+Reduce 23 -> 11 iterations 12 unknown 0
+Reduce 22 -> 11 iterations 11 unknown 0
+Reduce 21 -> 10 iterations 11 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 9 iterations 10 unknown 0
 Reduce 18 -> 5 iterations 5 unknown 0
 Reduce 17 -> 4 iterations 5 unknown 0
-Reduce 16 -> 4 iterations 4 unknown 0
-Reduce 15 -> 3 iterations 4 unknown 0
-Reduce 14 -> 3 iterations 3 unknown 0
+Reduce 16 -> 4 iterations 5 unknown 0
+Reduce 15 -> 4 iterations 4 unknown 0
+Reduce 14 -> 3 iterations 4 unknown 0
 Reduce 13 -> 3 iterations 3 unknown 0
 Reduce 12 -> 3 iterations 3 unknown 0
 Reduce 11 -> 2 iterations 3 unknown 0
@@ -66,31 +83,14 @@ Reduce 8 -> 1 iterations 2 unknown 0
 Reduce 7 -> 1 iterations 2 unknown 0
 Reduce 6 -> 1 iterations 2 unknown 0
 Reduce 5 -> 1 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 39 39
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 5 unknown 1
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-38 39 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
-improve 39 38
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 2 iterations 3 unknown 0
 unknown
-total number of cores 63
-total number of correction sets 2
-maxsat [ 0 ,  38 ] offset 0
-[(1, 9), (2, 8), (3, 12), (4, 9), (5, 3), (6, 4), (7, 2), (8, 3), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (19, 3)]
-[(38, 1), (39, 1)]
-New offset 12
-Reduce 24 -> 12 iterations 12 unknown 0
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  24 ] offset 0
+[(1, 7), (2, 3), (3, 3), (4, 4), (5, 1), (9, 1), (10, 2), (11, 2), (12, 2)]
+[]
+New offset 8
+Reduce 38 -> 12 iterations 12 unknown 0
 Reduce 24 -> 12 iterations 12 unknown 0
 Reduce 23 -> 11 iterations 12 unknown 0
 Reduce 22 -> 11 iterations 11 unknown 0
@@ -110,26 +110,384 @@ Reduce 9 -> 4 iterations 5 unknown 0
 Reduce 8 -> 4 iterations 4 unknown 0
 Reduce 7 -> 3 iterations 4 unknown 0
 Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  38 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
+[]
+New offset 2
+Reduce 37 -> 12 iterations 12 unknown 0
+Reduce 24 -> 12 iterations 12 unknown 0
+Reduce 23 -> 11 iterations 12 unknown 0
+Reduce 22 -> 11 iterations 11 unknown 0
+Reduce 21 -> 8 iterations 9 unknown 0
+Reduce 20 -> 8 iterations 8 unknown 0
+Reduce 19 -> 7 iterations 8 unknown 0
+Reduce 18 -> 7 iterations 7 unknown 0
+Reduce 17 -> 6 iterations 7 unknown 0
+Reduce 16 -> 6 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
 Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 24 24
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
 Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 34
+total number of correction sets 0
+maxsat [ 0 ,  37 ] offset 0
+[(1, 1), (2, 6), (3, 4), (4, 5), (5, 4), (6, 6), (7, 2), (8, 2), (11, 2), (12, 2)]
+[]
+New offset 4
+Reduce 40 -> 12 iterations 12 unknown 0
+Reduce 24 -> 12 iterations 12 unknown 0
+Reduce 23 -> 11 iterations 12 unknown 0
+Reduce 22 -> 11 iterations 11 unknown 0
+Reduce 21 -> 10 iterations 11 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 9 iterations 10 unknown 0
+Reduce 18 -> 9 iterations 9 unknown 0
+Reduce 17 -> 8 iterations 9 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 6 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  40 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 3), (7, 1), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
+[]
+New offset 3
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  16 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 31 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 5 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 3 unknown 0
 Reduce 6 -> 2 iterations 3 unknown 0
 Reduce 5 -> 2 iterations 3 unknown 0
-improve 24 24
-23 24 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 24 23
-23 unsat
-22 unsat
-21 unsat
-20 sat
-23 24 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 23 22
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 32
+total number of correction sets 0
+maxsat [ 0 ,  31 ] offset 0
+[(1, 2), (2, 4), (3, 7), (4, 6), (5, 4), (6, 3), (7, 3), (8, 3)]
+[]
+New offset 4
+Reduce 28 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 2 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 29
+total number of correction sets 0
+maxsat [ 0 ,  28 ] offset 0
+[(1, 4), (2, 6), (3, 4), (4, 4), (5, 3), (6, 4), (7, 2), (8, 2)]
+[]
+New offset 5
+Reduce 27 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+unknown
+total number of cores 19
+total number of correction sets 0
+maxsat [ 0 ,  27 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 3), (6, 3), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 36 -> 7 iterations 7 unknown 0
+Reduce 16 -> 7 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 4 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 3 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 20 -> 10 iterations 11 unknown 1
+Reduce 19 -> 10 iterations 10 unknown 1
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
+improve 36 26
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 49
+total number of correction sets 1
+maxsat [ 0 ,  26 ] offset 0
+[(1, 3), (2, 6), (3, 12), (4, 10), (5, 4), (6, 4), (7, 5), (8, 1), (9, 2), (10, 2)]
+[(26, 1)]
+New offset 7
+Reduce 29 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 2 iterations 3 unknown 0
+Reduce 14 -> 2 iterations 2 unknown 0
+Reduce 13 -> 1 iterations 2 unknown 0
+Reduce 12 -> 1 iterations 2 unknown 0
+Reduce 11 -> 1 iterations 2 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 11 iterations 3 unknown 4
+Reduce 10 -> 5 iterations 6 unknown 1
+unknown
+total number of cores 21
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(1, 7), (2, 3), (3, 2), (4, 3), (5, 1), (6, 2), (8, 2), (11, 1)]
+[]
+New offset 7
+Reduce 27 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 5 iterations 5 unknown 0
+Reduce 13 -> 4 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+improve 27 27
+improve 27 27
+26 unsat
+25 sat
+23 27 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 27 23
 rotate max-count 0 num occurrences 1
 Number of plateaus 1
+24 unsat
+23 unsat
+22 unsat
+21 sat
+improve 23 23
+20 unsat
+19 sat
+improve 23 23
+18 unsat
+17 unsat
+16 unsat
+15 unsat
+14 unsat
+13 sat
+25 27 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+improve 23 21
+rotate max-count 2 num occurrences 1
+Number of plateaus 3
+try-rotate 2
+improve 21 21
+improve 21 21
+improve 21 21
+rotate-1 done, sat 3 unsat 21
+12 unsat
+11 unsat
+10 unsat
+9 unsat
+8 sat
+improve 21 21
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 unsat
+2 unsat
+1 unsat
+0 sat
+improve 21 21
+total number of cores 79
+total number of correction sets 11
+maxsat [ 0 ,  21 ] offset 0
+[(1, 42), (2, 9), (3, 8), (4, 9), (5, 4), (6, 4), (7, 1), (8, 2)]
+[(21, 6), (23, 3), (27, 2)]
+New offset 20
+Reduce 26 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 2 iterations 3 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  26 ] offset 0
+[(1, 1), (2, 7), (3, 4), (4, 4), (5, 3), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 3
+Reduce 29 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 5 iterations 5 unknown 0
+Reduce 13 -> 5 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 29 23
+Reduce 6 -> 1 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+improve 23 23
+28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+improve 23 22
+21 unsat
+20 unsat
 19 unsat
+Reduce 8 -> 4 iterations 4 unknown 0
 18 unsat
 17 unsat
 16 unsat
@@ -137,9 +495,9 @@ Number of plateaus 1
 14 unsat
 13 unsat
 12 unsat
-11 sat
-improve 22 22
+11 unsat
 10 unsat
+Reduce 8 -> 4 iterations 5 unknown 1
 9 unsat
 8 unsat
 7 unsat
@@ -150,35 +508,13 @@ improve 22 22
 2 unsat
 1 unsat
 0 unsat
-total number of cores 61
-total number of correction sets 6
+total number of cores 67
+total number of correction sets 4
 maxsat [ 0 ,  22 ] offset 0
-[(1, 27), (2, 7), (3, 6), (4, 5), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
-[(22, 2), (23, 1), (24, 3)]
-New offset 22
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+[(1, 26), (2, 12), (3, 10), (4, 9), (5, 4), (6, 2), (7, 2), (8, 2)]
+[(22, 1), (23, 2), (28, 1)]
+New offset 21
+Reduce 22 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
 Reduce 14 -> 7 iterations 7 unknown 0
@@ -190,36 +526,75 @@ Reduce 9 -> 4 iterations 5 unknown 0
 Reduce 8 -> 4 iterations 4 unknown 0
 Reduce 7 -> 3 iterations 4 unknown 0
 Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  22 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 3
+Reduce 40 -> 5 iterations 6 unknown 0
+Reduce 16 -> 5 iterations 6 unknown 0
+Reduce 15 -> 5 iterations 5 unknown 0
+Reduce 14 -> 4 iterations 5 unknown 0
+Reduce 13 -> 4 iterations 4 unknown 0
+Reduce 12 -> 3 iterations 4 unknown 0
+Reduce 11 -> 3 iterations 3 unknown 0
+Reduce 10 -> 2 iterations 3 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 24 -> 24 iterations 3 unknown 4
+Reduce 23 -> 11 iterations 12 unknown 0
+Reduce 22 -> 11 iterations 11 unknown 0
+Reduce 21 -> 10 iterations 11 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 10 iterations 10 unknown 1
+Reduce 18 -> 9 iterations 9 unknown 0
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 4 iterations 4 unknown 2
 Reduce 5 -> 3 iterations 3 unknown 1
 unknown
 total number of cores 38
 total number of correction sets 0
-maxsat [ 0 ,  38 ] offset 0
-[(2, 1), (3, 4), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2)]
+maxsat [ 0 ,  40 ] offset 0
+[(1, 1), (2, 3), (3, 7), (4, 9), (5, 5), (6, 2), (7, 1), (8, 2), (9, 2), (10, 3), (11, 2), (24, 1)]
+[]
+New offset 4
+Reduce 29 -> 7 iterations 8 unknown 0
+Reduce 16 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 16
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(2, 2), (3, 4), (4, 3), (5, 2), (6, 2), (7, 3)]
 []
 New offset 2
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+Reduce 24 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
 Reduce 14 -> 7 iterations 7 unknown 0
@@ -233,62 +608,337 @@ Reduce 7 -> 3 iterations 4 unknown 0
 Reduce 6 -> 3 iterations 3 unknown 0
 Reduce 5 -> 2 iterations 3 unknown 0
 unknown
-total number of cores 38
+total number of cores 16
 total number of correction sets 0
-maxsat [ 0 ,  37 ] offset 0
-[(1, 1), (2, 3), (3, 2), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 3)]
+maxsat [ 0 ,  24 ] offset 0
+[(2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
 []
 New offset 2
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 13 iterations 14 unknown 0
-Reduce 28 -> 12 iterations 13 unknown 0
-Reduce 27 -> 12 iterations 12 unknown 0
-Reduce 26 -> 11 iterations 12 unknown 0
-Reduce 25 -> 11 iterations 11 unknown 0
-Reduce 24 -> 10 iterations 11 unknown 0
-Reduce 23 -> 10 iterations 10 unknown 0
-Reduce 22 -> 9 iterations 10 unknown 0
-Reduce 21 -> 9 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 7 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
+Reduce 36 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 3 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 9 iterations 10 unknown 0
+Reduce 18 -> 9 iterations 9 unknown 0
+Reduce 17 -> 8 iterations 9 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 37
+total number of correction sets 0
+maxsat [ 0 ,  36 ] offset 0
+[(1, 2), (2, 3), (3, 8), (4, 5), (5, 4), (6, 4), (7, 4), (8, 4), (9, 2), (10, 1)]
+[]
+New offset 3
+Reduce 25 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 3 iterations 4 unknown 0
+Reduce 14 -> 3 iterations 3 unknown 0
+Reduce 13 -> 2 iterations 3 unknown 0
+Reduce 12 -> 2 iterations 2 unknown 0
+Reduce 11 -> 1 iterations 2 unknown 0
+Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 9 -> 3 iterations 4 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  25 ] offset 0
+[(1, 4), (2, 4), (3, 6), (4, 1), (8, 2)]
+[]
+New offset 5
+Reduce 22 -> 6 iterations 7 unknown 0
+Reduce 16 -> 6 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 6 unknown 0
+Reduce 14 -> 5 iterations 6 unknown 0
 Reduce 13 -> 5 iterations 6 unknown 0
 Reduce 12 -> 5 iterations 5 unknown 0
 Reduce 11 -> 4 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  22 ] offset 0
+[(1, 1), (2, 3), (3, 3), (4, 4), (5, 3), (6, 3)]
+[]
+New offset 2
+Reduce 29 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 26
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(1, 1), (2, 3), (3, 6), (4, 4), (5, 4), (6, 4), (7, 2), (8, 2)]
+[]
+New offset 4
+Reduce 28 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 27
+total number of correction sets 0
+maxsat [ 0 ,  28 ] offset 0
+[(1, 1), (2, 3), (3, 6), (4, 6), (5, 4), (6, 3), (7, 2), (8, 2)]
+[]
+New offset 3
+Reduce 31 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 5 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 3 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+improve 31 24
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+29 31 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0]
+improve 24 22
+29 unsat
+28 unsat
+27 unsat
+26 unsat
+25 sat
+24 unsat
+23 unsat
+22 sat
+21 unsat
+20 sat
+19 unsat
+18 unsat
+17 unsat
+16 unsat
+15 unsat
+14 unsat
+13 sat
+12 unsat
+11 unsat
+10 sat
+9 sat
+8 unsat
+Reduce 8 -> 4 iterations 5 unknown 1
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 sat
+improve 22 22
+2 sat
+improve 22 22
+1 unsat
+0 unsat
+total number of cores 74
+total number of correction sets 12
+maxsat [ 0 ,  22 ] offset 0
+[(1, 27), (2, 11), (3, 12), (4, 12), (5, 3), (6, 3), (7, 4), (8, 2)]
+[(22, 3), (23, 3), (24, 2), (27, 1), (28, 2), (30, 1)]
+New offset 22
+Reduce 20 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  20 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 37 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 1 iterations 2 unknown 0
+Reduce 14 -> 1 iterations 2 unknown 0
+Reduce 13 -> 6 iterations 6 unknown 0
+Reduce 12 -> 1 iterations 2 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 9 -> 1 iterations 2 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 21 -> 10 iterations 11 unknown 0
+Reduce 20 -> 10 iterations 10 unknown 0
+Reduce 19 -> 9 iterations 10 unknown 0
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 8 iterations 9 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 34
+total number of correction sets 0
+maxsat [ 0 ,  37 ] offset 0
+[(1, 11), (2, 2), (3, 1), (4, 4), (5, 3), (6, 3), (7, 1), (8, 5), (9, 2), (10, 2)]
+[]
+New offset 12
+Reduce 32 -> 6 iterations 6 unknown 0
+Reduce 16 -> 6 iterations 6 unknown 0
+Reduce 15 -> 5 iterations 6 unknown 0
+Reduce 14 -> 5 iterations 5 unknown 0
+Reduce 13 -> 4 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 4 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
 Reduce 10 -> 4 iterations 4 unknown 0
 Reduce 9 -> 3 iterations 4 unknown 0
 Reduce 8 -> 3 iterations 3 unknown 0
 Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+improve 32 24
+Reduce 6 -> 3 iterations 4 unknown 1
 Reduce 5 -> 2 iterations 3 unknown 0
 unknown
-total number of cores 40
+total number of cores 38
+total number of correction sets 1
+maxsat [ 0 ,  24 ] offset 0
+[(1, 3), (2, 8), (3, 7), (4, 8), (5, 4), (6, 4), (7, 2), (8, 2)]
+[(24, 1)]
+New offset 6
+Reduce 25 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
 total number of correction sets 0
-maxsat [ 0 ,  40 ] offset 0
-[(2, 4), (3, 3), (4, 3), (5, 2), (6, 2), (7, 3), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 1), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2), (20, 2)]
+maxsat [ 0 ,  25 ] offset 0
+[(1, 3), (2, 2), (3, 1), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
 []
-New offset 2
+New offset 4
+Reduce 23 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
+Reduce 15 -> 6 iterations 6 unknown 0
+Reduce 14 -> 5 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 5 unknown 0
+Reduce 12 -> 5 iterations 5 unknown 0
 Reduce 11 -> 5 iterations 5 unknown 0
 Reduce 10 -> 4 iterations 5 unknown 0
 Reduce 9 -> 4 iterations 4 unknown 0
@@ -299,1582 +949,83 @@ Reduce 5 -> 2 iterations 3 unknown 0
 unknown
 total number of cores 17
 total number of correction sets 0
-maxsat [ 0 ,  16 ] offset 0
-[(1, 1), (2, 2), (3, 4), (4, 3), (5, 2), (6, 2), (7, 1), (8, 2)]
+maxsat [ 0 ,  23 ] offset 0
+[(1, 1), (2, 2), (3, 4), (4, 3), (5, 4), (6, 1), (8, 2)]
 []
 New offset 2
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 8 unknown 0
-Reduce 16 -> 7 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 32
-total number of correction sets 0
-maxsat [ 0 ,  31 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 3), (8, 1), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 3)]
-[]
-New offset 2
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
-Reduce 13 -> 5 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 29
-total number of correction sets 0
-maxsat [ 0 ,  28 ] offset 0
-[(1, 1), (2, 4), (3, 3), (4, 3), (5, 2), (6, 3), (7, 1), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2)]
-[]
-New offset 2
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 3 iterations 3 unknown 1
-unknown
-total number of cores 28
-total number of correction sets 0
-maxsat [ 0 ,  27 ] offset 0
-[(1, 1), (2, 1), (3, 4), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 3)]
-[]
-New offset 2
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 36 36
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-29 36 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-improve 36 29
-Reduce 5 -> 2 iterations 3 unknown 0
-35 36 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0]
-improve 29 28
-unknown
-total number of cores 59
-total number of correction sets 3
-maxsat [ 0 ,  28 ] offset 0
-[(1, 2), (2, 6), (3, 12), (4, 7), (5, 5), (6, 3), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2)]
-[(28, 1), (29, 1), (36, 1)]
-New offset 7
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 9 iterations 9 unknown 0
-Reduce 22 -> 9 iterations 9 unknown 0
-Reduce 21 -> 8 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 8 unknown 0
-Reduce 19 -> 7 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 7 unknown 0
-Reduce 17 -> 6 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 6 unknown 0
-Reduce 15 -> 5 iterations 6 unknown 0
-Reduce 14 -> 5 iterations 5 unknown 0
-Reduce 13 -> 5 iterations 5 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 4 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 2), (2, 3), (3, 2), (4, 5), (5, 3), (6, 2), (7, 2), (8, 2), (9, 2), (12, 2), (13, 2), (14, 3)]
-[]
-New offset 2
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 8 iterations 8 unknown 0
-Reduce 19 -> 7 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 7 unknown 0
-Reduce 17 -> 6 iterations 7 unknown 0
+Reduce 32 -> 6 iterations 6 unknown 0
 Reduce 16 -> 6 iterations 6 unknown 0
 Reduce 15 -> 5 iterations 6 unknown 0
 Reduce 14 -> 5 iterations 5 unknown 0
 Reduce 13 -> 4 iterations 5 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 3 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 27 27
-Reduce 15 -> 3 iterations 4 unknown 0
-Reduce 14 -> 3 iterations 3 unknown 0
-Reduce 13 -> 2 iterations 3 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 3 iterations 3 unknown 1
-improve 27 27
-improve 27 27
-23 unsat
-22 sat
-22 27 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 27 22
-rotate max-count 0 num occurrences 4
-Number of plateaus 4
-21 unsat
-Reduce 5 -> 3 iterations 3 unknown 1
-20 unsat
-Reduce 5 -> 2 iterations 3 unknown 0
-19 unsat
-18 unsat
-17 unsat
-16 unsat
-15 unsat
-14 unsat
-13 unsat
-12 unsat
-11 unsat
-10 unsat
-9 unsat
-8 sat
-improve 22 22
-7 unsat
-6 unsat
-5 unsat
-4 unsat
-3 sat
-26 27 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 22 21
-rotate max-count 11 num occurrences 1
-Number of plateaus 4
-try-rotate 8
-improve 21 21
-rotate-1 done, sat 1 unsat 21
-try-rotate 11
-improve 21 21
-rotate-1 done, sat 1 unsat 21
-2 unsat
-1 unsat
-0 unsat
-total number of cores 111
-total number of correction sets 8
-maxsat [ 0 ,  21 ] offset 0
-[(1, 40), (2, 10), (3, 19), (4, 8), (5, 4), (6, 17), (7, 4), (8, 1), (10, 1), (11, 2), (12, 2), (13, 3)]
-[(21, 3), (22, 2), (27, 3)]
-New offset 18
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 3 unknown 0
-Reduce 8 -> 2 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-unknown
-total number of cores 27
-total number of correction sets 0
-maxsat [ 0 ,  26 ] offset 0
-[(1, 2), (2, 4), (3, 3), (4, 3), (6, 1), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2)]
-[]
-New offset 3
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 29 29
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-27 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 29 27
-28 unsat
-27 unsat
-26 unsat
-25 unsat
-24 sat
-25 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 27 23
-rotate max-count 0 num occurrences 1
-Number of plateaus 1
-23 unsat
-22 unsat
-21 sat
-28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 3, 3, 0, 0, 0, 0, 0, 0, 0]
-improve 23 22
-rotate max-count 0 num occurrences 2
-Number of plateaus 2
-20 unsat
-19 sat
-improve 22 22
-18 unsat
-17 unsat
-16 unsat
-15 unsat
-14 unsat
-13 unsat
-12 sat
-improve 22 22
-11 unsat
-10 sat
-improve 22 22
-9 unsat
-8 unsat
-Reduce 6 -> 4 iterations 4 unknown 2
-7 unsat
-6 unsat
-5 unsat
-4 unsat
-3 sat
-improve 22 22
-2 unsat
-1 unsat
-0 sat
-improve 22 22
-total number of cores 71
-total number of correction sets 11
-maxsat [ 0 ,  22 ] offset 0
-[(1, 23), (2, 6), (3, 8), (4, 11), (5, 4), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[(22, 6), (23, 1), (27, 1), (29, 3)]
-New offset 19
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 23
-total number of correction sets 0
-maxsat [ 0 ,  22 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2)]
-[]
-New offset 2
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 3 iterations 3 unknown 1
-unknown
-total number of cores 40
-total number of correction sets 0
-maxsat [ 0 ,  40 ] offset 0
-[(2, 1), (3, 4), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2), (20, 2)]
-[]
-New offset 2
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 1), (2, 1), (3, 4), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[]
-New offset 2
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 25
-total number of correction sets 0
-maxsat [ 0 ,  24 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
-[]
-New offset 1
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 15 iterations 15 unknown 0
-Reduce 31 -> 14 iterations 14 unknown 0
-Reduce 30 -> 13 iterations 14 unknown 0
-Reduce 29 -> 13 iterations 13 unknown 0
-Reduce 28 -> 12 iterations 13 unknown 0
-Reduce 27 -> 12 iterations 12 unknown 0
-Reduce 26 -> 11 iterations 12 unknown 0
-Reduce 25 -> 11 iterations 11 unknown 0
-Reduce 24 -> 10 iterations 11 unknown 0
-Reduce 23 -> 10 iterations 10 unknown 0
-Reduce 22 -> 9 iterations 10 unknown 0
-Reduce 21 -> 9 iterations 10 unknown 0
-Reduce 20 -> 9 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 9 unknown 0
-Reduce 18 -> 8 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 8 unknown 0
-Reduce 16 -> 7 iterations 7 unknown 0
-Reduce 15 -> 7 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 35
-total number of correction sets 0
-maxsat [ 0 ,  36 ] offset 0
-[(2, 1), (3, 3), (4, 3), (5, 3), (6, 2), (7, 3), (8, 2), (9, 3), (10, 2), (11, 2), (12, 2), (13, 2), (14, 1), (15, 1), (16, 1), (17, 2), (18, 2)]
-[]
-New offset 1
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 26
-total number of correction sets 0
-maxsat [ 0 ,  25 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 3)]
-[]
-New offset 2
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 23
-total number of correction sets 0
-maxsat [ 0 ,  22 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2)]
-[]
-New offset 2
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 11 iterations 12 unknown 0
-Reduce 25 -> 11 iterations 11 unknown 0
-Reduce 24 -> 10 iterations 11 unknown 0
-Reduce 23 -> 10 iterations 10 unknown 0
-Reduce 22 -> 9 iterations 10 unknown 0
-Reduce 21 -> 9 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 8 unknown 0
-Reduce 18 -> 8 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 8 unknown 0
-Reduce 16 -> 7 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 1), (2, 3), (3, 3), (4, 3), (5, 2), (6, 3), (7, 2), (8, 3), (9, 2), (10, 2), (11, 2), (13, 1), (14, 3)]
-[]
-New offset 2
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 7 unknown 1
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 28 28
-Reduce 5 -> 3 iterations 3 unknown 1
-21 28 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 28 21
-20 unsat
-19 unsat
-18 unsat
-17 unsat
-16 unsat
-15 unsat
-Reduce 8 -> 4 iterations 4 unknown 0
-14 unknown
-13 unknown
-12 unsat
-11 unsat
-10 unsat
-9 unsat
-8 unsat
-7 unsat
-6 unsat
-Reduce 8 -> 8 iterations 3 unknown 4
-5 unknown
-4 unsat
-3 unsat
-2 unsat
-1 unsat
-0 unsat
-Number undetermined 3
-total number of cores 57
-total number of correction sets 2
-maxsat [ 0 ,  21 ] offset 0
-[(1, 22), (2, 1), (3, 6), (4, 7), (5, 2), (6, 2), (7, 2), (8, 3), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2)]
-[(21, 1), (28, 1)]
-New offset 15
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 5 iterations 6 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 31 31
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-improve 31 31
-Reduce 5 -> 3 iterations 3 unknown 1
-26 31 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-improve 31 26
-30 unsat
-29 unsat
-28 unsat
-27 sat
-29 31 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0]
-improve 26 24
-rotate max-count 0 num occurrences 1
-Number of plateaus 1
-26 unsat
-25 unsat
-24 sat
-30 31 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 3, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0]
-improve 24 23
-rotate max-count 1 num occurrences 1
-Number of plateaus 2
-23 unsat
-22 unsat
-21 unsat
-20 sat
-30 31 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 3, 4, 4, 4, 4, 0, 4, 0, 0, 0, 0, 0, 0]
-improve 23 22
-rotate max-count 3 num occurrences 1
-Number of plateaus 2
-try-rotate 3
-improve 22 22
-improve 22 22
-improve 22 22
-improve 22 22
-improve 22 22
-improve 22 22
-improve 22 22
-rotate-1 done, sat 7 unsat 22
-19 unsat
-18 unsat
-17 sat
-improve 22 22
-16 unsat
-15 unsat
-14 unsat
-Reduce 5 -> 3 iterations 4 unknown 2
-13 unsat
-12 unsat
-11 unsat
-10 sat
-improve 22 22
-9 sat
-improve 22 22
-8 unsat
-7 unsat
-6 sat
-improve 22 22
-5 unsat
-4 unsat
-3 sat
-improve 22 22
-2 unsat
-1 unsat
-0 sat
-improve 22 22
-total number of cores 97
-total number of correction sets 20
-maxsat [ 0 ,  22 ] offset 0
-[(1, 14), (2, 17), (3, 12), (4, 7), (5, 3), (6, 23), (7, 4), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 3)]
-[(22, 14), (23, 1), (24, 1), (26, 1), (31, 3)]
-New offset 15
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 3 iterations 3 unknown 1
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 20 20
-Reduce 5 -> 3 iterations 3 unknown 1
-unknown
-total number of cores 26
-total number of correction sets 1
-maxsat [ 0 ,  20 ] offset 0
-[(1, 2), (2, 2), (3, 6), (4, 4), (5, 3), (6, 2), (7, 2), (8, 2), (9, 3)]
-[(20, 1)]
-New offset 3
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
 Reduce 12 -> 4 iterations 4 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 38
-total number of correction sets 0
-maxsat [ 0 ,  37 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 4), (5, 2), (6, 1), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 3)]
-[]
-New offset 1
-Reduce 32 -> 13 iterations 13 unknown 0
-Reduce 32 -> 13 iterations 13 unknown 0
-Reduce 31 -> 12 iterations 13 unknown 0
-Reduce 30 -> 12 iterations 12 unknown 0
-Reduce 29 -> 11 iterations 12 unknown 0
-Reduce 28 -> 11 iterations 11 unknown 0
-Reduce 27 -> 10 iterations 11 unknown 0
-Reduce 26 -> 10 iterations 10 unknown 0
-Reduce 25 -> 9 iterations 10 unknown 0
-Reduce 24 -> 9 iterations 9 unknown 0
-Reduce 23 -> 8 iterations 9 unknown 0
-Reduce 22 -> 8 iterations 8 unknown 0
-Reduce 21 -> 7 iterations 8 unknown 0
-Reduce 20 -> 7 iterations 7 unknown 0
-Reduce 19 -> 6 iterations 7 unknown 0
-Reduce 18 -> 6 iterations 6 unknown 0
-Reduce 17 -> 5 iterations 6 unknown 0
-Reduce 16 -> 5 iterations 5 unknown 0
-Reduce 15 -> 4 iterations 5 unknown 0
-Reduce 14 -> 4 iterations 4 unknown 0
-Reduce 13 -> 3 iterations 4 unknown 0
-Reduce 12 -> 3 iterations 4 unknown 0
 Reduce 11 -> 3 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 3 unknown 0
-Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
 Reduce 8 -> 2 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
 Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-improve 32 30
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-25 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 2, 2, 0, 0, 0, 0, 0, 0]
-improve 30 23
-27 unsat
-26 unsat
-25 sat
-31 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 3, 3, 0, 0, 0, 0, 0, 0]
-improve 23 22
-rotate max-count 0 num occurrences 5
-Number of plateaus 5
-24 unsat
-Reduce 6 -> 3 iterations 4 unknown 1
-23 unsat
-22 sat
-improve 22 22
-21 unsat
-20 unsat
-19 unsat
-18 unsat
-17 unsat
-16 sat
-improve 22 22
-15 unknown
-14 sat
-improve 22 22
-13 unsat
-12 unsat
-11 unsat
-10 unsat
-9 sat
-improve 22 22
-8 unsat
-7 unsat
-6 unsat
-5 unsat
-4 unsat
-3 unsat
-2 unsat
-1 sat
-improve 22 22
-0 unsat
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
 Reduce 11 -> 6 iterations 6 unknown 1
-Number undetermined 1
-total number of cores 67
-total number of correction sets 9
-maxsat [ 0 ,  22 ] offset 0
-[(1, 14), (2, 9), (3, 20), (4, 5), (5, 2), (6, 3), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2)]
-[(22, 6), (23, 1), (28, 1), (30, 1)]
-New offset 12
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 25 25
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-unknown
-total number of cores 35
-total number of correction sets 1
-maxsat [ 0 ,  25 ] offset 0
-[(1, 2), (2, 10), (3, 4), (4, 5), (6, 1), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 3)]
-[(25, 1)]
-New offset 6
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 9 iterations 10 unknown 0
-Reduce 21 -> 9 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 9 unknown 0
-Reduce 18 -> 8 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 8 unknown 0
-Reduce 16 -> 7 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
-Reduce 13 -> 5 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 23 23
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-improve 23 23
-improve 23 23
-22 23 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 23 22
-21 unsat
-20 sat
-21 23 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 22 20
-rotate max-count 0 num occurrences 2
-Number of plateaus 2
-19 unsat
-18 unsat
-17 unsat
-16 unsat
-15 unsat
-14 unsat
-13 unsat
-12 unsat
-11 unknown
-10 unknown
-9 unsat
-8 unsat
-7 unsat
-6 unsat
-5 sat
-improve 20 20
-4 sat
-22 23 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 3, 0, 0, 0, 0, 0, 0, 0]
-improve 20 19
-rotate max-count 10 num occurrences 2
-Number of plateaus 2
-try-rotate 10
-improve 19 19
-22 23 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 3, 3, 4, 0, 0, 0, 0, 0, 0, 0]
-improve 19 18
-unknown
-22 23 [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 0, 4, 4, 5, 0, 0, 0, 0, 0, 0, 0]
-improve 18 17
-rotate-1 done, sat 3 unsat 16
-rotate max-count 12 num occurrences 3
-Number of plateaus 3
-try-rotate 12
-unknown
-unknown
-rotate-1 done, sat 0 unsat 16
-try-rotate 12
-unknown
-improve 17 17
-rotate-1 done, sat 1 unsat 16
-try-rotate 12
-improve 17 17
-unknown
-rotate-1 done, sat 1 unsat 16
-3 unsat
-2 unsat
-1 unsat
-0 sat
-Number undetermined 2
-total number of cores 117
-total number of correction sets 13
-maxsat [ 0 ,  17 ] offset 0
-[(1, 25), (2, 18), (3, 19), (4, 16), (5, 3), (6, 27), (7, 2), (8, 3), (9, 2), (11, 2)]
-[(17, 3), (18, 2), (19, 2), (20, 2), (22, 1), (23, 3)]
-New offset 11
-Reduce 32 -> 13 iterations 13 unknown 0
-Reduce 32 -> 13 iterations 13 unknown 0
-Reduce 31 -> 13 iterations 13 unknown 0
-Reduce 30 -> 13 iterations 13 unknown 0
-Reduce 29 -> 12 iterations 13 unknown 0
-Reduce 28 -> 12 iterations 12 unknown 0
-Reduce 27 -> 11 iterations 12 unknown 0
-Reduce 26 -> 11 iterations 11 unknown 0
-Reduce 25 -> 10 iterations 11 unknown 0
-Reduce 24 -> 10 iterations 10 unknown 0
-Reduce 23 -> 10 iterations 10 unknown 0
-Reduce 22 -> 9 iterations 10 unknown 0
-Reduce 21 -> 9 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 6 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-improve 32 29
-Reduce 5 -> 2 iterations 3 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
 Reduce 5 -> 3 iterations 3 unknown 1
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-28 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 0, 2, 2, 0, 0, 0, 0, 0, 0]
-improve 29 25
-24 unsat
-23 unsat
-Reduce 8 -> 4 iterations 4 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+improve 32 26
+29 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 0, 2, 2, 0, 0, 0, 0, 0, 0]
+improve 26 23
 22 unsat
 21 unsat
 20 unsat
 19 unsat
 18 unsat
-17 sat
-30 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 3, 0, 3, 3, 0, 0, 0, 0, 0, 0]
-improve 25 23
-rotate max-count 1 num occurrences 3
-Number of plateaus 8
+Reduce 10 -> 5 iterations 6 unknown 1
+17 unsat
+Reduce 10 -> 5 iterations 5 unknown 0
 16 unsat
-15 unknown
+15 unsat
 14 unsat
 13 unsat
 12 unsat
 11 unsat
-Reduce 9 -> 4 iterations 5 unknown 0
 10 unsat
 9 unsat
-8 sat
-31 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 3, 3, 3, 3, 4, 0, 4, 4, 0, 0, 0, 0, 0, 0]
-improve 23 22
-rotate max-count 1 num occurrences 6
-Number of plateaus 9
-7 unsat
-6 unsat
-5 unsat
-4 unsat
-3 unsat
-2 sat
-improve 22 22
-1 unsat
-0 unsat
-Number undetermined 1
-total number of cores 70
-total number of correction sets 6
-maxsat [ 0 ,  22 ] offset 0
-[(1, 23), (2, 5), (3, 8), (4, 10), (5, 3), (6, 4), (7, 2), (8, 2), (9, 2), (10, 3), (11, 2), (12, 2), (13, 4)]
-[(22, 2), (23, 1), (25, 1), (29, 1), (32, 1)]
-New offset 19
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
 Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 24
-total number of correction sets 0
-maxsat [ 0 ,  24 ] offset 0
-[(2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
-[]
-New offset 3
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 7 iterations 8 unknown 0
-Reduce 25 -> 7 iterations 7 unknown 0
-Reduce 24 -> 6 iterations 7 unknown 0
-Reduce 23 -> 6 iterations 6 unknown 0
-Reduce 22 -> 5 iterations 6 unknown 0
-Reduce 21 -> 5 iterations 5 unknown 0
-Reduce 20 -> 4 iterations 5 unknown 0
-Reduce 19 -> 4 iterations 4 unknown 0
-Reduce 18 -> 4 iterations 4 unknown 0
-Reduce 17 -> 3 iterations 4 unknown 0
-Reduce 16 -> 3 iterations 3 unknown 0
-Reduce 15 -> 2 iterations 3 unknown 0
-Reduce 14 -> 2 iterations 3 unknown 0
-Reduce 13 -> 2 iterations 3 unknown 0
-Reduce 12 -> 2 iterations 2 unknown 0
-Reduce 11 -> 2 iterations 2 unknown 0
-Reduce 10 -> 2 iterations 2 unknown 0
-Reduce 9 -> 2 iterations 2 unknown 0
-Reduce 8 -> 2 iterations 2 unknown 0
-Reduce 7 -> 1 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-unknown
-total number of cores 32
-total number of correction sets 0
-maxsat [ 0 ,  31 ] offset 0
-[(1, 4), (2, 9), (3, 3), (4, 4), (5, 2), (6, 2), (7, 2), (13, 1), (14, 2), (15, 3)]
-[]
-New offset 6
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 31
-total number of correction sets 0
-maxsat [ 0 ,  30 ] offset 0
-[(1, 1), (2, 4), (3, 3), (4, 3), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2)]
-[]
-New offset 2
-Reduce 22 -> 8 iterations 8 unknown 0
-Reduce 22 -> 8 iterations 8 unknown 0
-Reduce 21 -> 7 iterations 8 unknown 0
-Reduce 20 -> 7 iterations 7 unknown 0
-Reduce 19 -> 6 iterations 7 unknown 0
-Reduce 18 -> 6 iterations 7 unknown 0
-Reduce 17 -> 6 iterations 6 unknown 0
-Reduce 16 -> 5 iterations 6 unknown 0
-Reduce 15 -> 5 iterations 5 unknown 0
-Reduce 14 -> 4 iterations 5 unknown 0
-Reduce 13 -> 4 iterations 4 unknown 0
-Reduce 12 -> 3 iterations 4 unknown 0
-Reduce 11 -> 3 iterations 3 unknown 0
-Reduce 10 -> 2 iterations 3 unknown 0
-Reduce 9 -> 2 iterations 2 unknown 0
-Reduce 8 -> 2 iterations 2 unknown 0
-Reduce 7 -> 2 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 22 21
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-improve 21 21
-20 unsat
-19 unsat
-18 sat
-19 22 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 21 18
-rotate max-count 1 num occurrences 1
-Number of plateaus 2
-17 unsat
-16 sat
-improve 18 18
-15 unsat
-14 unsat
-13 unsat
-12 sat
-improve 18 18
-11 unsat
-Reduce 5 -> 2 iterations 3 unknown 0
-10 unsat
-9 unsat
 8 unsat
 7 unsat
 6 unknown
 5 unsat
-4 sat
-21 22 [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0]
-improve 18 17
-rotate max-count 3 num occurrences 1
-Number of plateaus 4
-try-rotate 3
-21 22 [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 3, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0]
-improve 17 16
-improve 16 16
-rotate-1 done, sat 2 unsat 16
-rotate max-count 15 num occurrences 4
-Number of plateaus 2
-try-rotate 15
-improve 16 16
-rotate-1 done, sat 1 unsat 16
-try-rotate 15
-improve 16 16
-rotate-1 done, sat 1 unsat 16
-try-rotate 15
-improve 16 16
-rotate-1 done, sat 1 unsat 16
-try-rotate 15
-improve 16 16
-rotate-1 done, sat 1 unsat 16
-3 unsat
+4 unsat
+3 sat
+31 32 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3, 3, 3, 0, 3, 3, 0, 0, 0, 0, 0, 0]
+improve 23 22
+rotate max-count 2 num occurrences 1
+Number of plateaus 9
+try-rotate 2
+improve 22 22
+unknown
+rotate-1 done, sat 1 unsat 21
 2 unsat
 1 unsat
-0 sat
-improve 16 16
-Number undetermined 1
-total number of cores 130
-total number of correction sets 14
-maxsat [ 0 ,  16 ] offset 0
-[(1, 17), (2, 13), (3, 8), (4, 4), (5, 16), (6, 48), (7, 22), (8, 2)]
-[(16, 7), (17, 1), (18, 3), (21, 2), (22, 1)]
-New offset 14
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 13 iterations 14 unknown 0
-Reduce 27 -> 12 iterations 13 unknown 0
-Reduce 26 -> 12 iterations 12 unknown 0
-Reduce 25 -> 11 iterations 12 unknown 0
-Reduce 24 -> 11 iterations 11 unknown 0
-Reduce 23 -> 10 iterations 11 unknown 0
-Reduce 22 -> 10 iterations 10 unknown 0
-Reduce 21 -> 10 iterations 10 unknown 0
-Reduce 20 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 39
-total number of correction sets 0
-maxsat [ 0 ,  40 ] offset 0
-[(2, 1), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 3), (10, 3), (11, 2), (12, 2), (13, 1), (14, 1), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2), (20, 2)]
-[]
-New offset 3
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 24
-total number of correction sets 0
-maxsat [ 0 ,  23 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 3)]
-[]
-New offset 1
-Reduce 30 -> 14 iterations 15 unknown 0
-Reduce 30 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 14 unknown 0
-Reduce 28 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 13 unknown 0
-Reduce 26 -> 12 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 12 unknown 0
-Reduce 24 -> 11 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 11 unknown 0
-Reduce 22 -> 10 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 10 unknown 0
-Reduce 20 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 30 29
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 6 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
-Reduce 13 -> 5 iterations 5 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 4 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-29 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 29 28
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-29 unsat
-28 sat
-25 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0]
-improve 28 23
-rotate max-count 0 num occurrences 1
-Number of plateaus 1
-27 unsat
-26 unsat
-25 unsat
-24 unsat
-23 sat
-improve 23 23
-22 unsat
-21 unsat
-20 sat
-improve 23 23
-19 unsat
-18 unsat
-17 unsat
-16 unsat
-15 sat
-28 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2, 2, 3, 4, 0, 0, 0, 0, 0, 0, 0]
-improve 23 21
-rotate max-count 0 num occurrences 4
-Number of plateaus 4
-14 unsat
-13 unsat
-12 sat
-29 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 3, 3, 3, 3, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0]
-improve 21 20
-rotate max-count 0 num occurrences 5
-Number of plateaus 5
-11 sat
-improve 20 20
-10 sat
-improve 20 20
-9 unsat
-8 unsat
-7 unsat
-6 sat
-5 sat
-4 unsat
-3 unsat
-2 sat
-improve 20 20
-1 unsat
-Reduce 11 -> 6 iterations 6 unknown 1
 0 unsat
-total number of cores 76
-total number of correction sets 15
-maxsat [ 0 ,  20 ] offset 0
-[(1, 23), (2, 7), (3, 9), (4, 9), (5, 4), (6, 6), (7, 2), (8, 2), (9, 3), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[(20, 4), (21, 3), (23, 3), (28, 1), (29, 2), (30, 2)]
-New offset 19
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 10 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+Number undetermined 1
+total number of cores 82
+total number of correction sets 4
+maxsat [ 0 ,  22 ] offset 0
+[(1, 45), (2, 7), (3, 7), (4, 6), (5, 6), (6, 4), (7, 2), (8, 2), (10, 3)]
+[(22, 2), (23, 1), (26, 1)]
+New offset 20
+Reduce 24 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
 Reduce 14 -> 7 iterations 7 unknown 0
@@ -1882,66 +1033,84 @@ Reduce 13 -> 6 iterations 7 unknown 0
 Reduce 12 -> 6 iterations 6 unknown 0
 Reduce 11 -> 5 iterations 6 unknown 0
 Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
 unknown
-total number of cores 26
+total number of cores 17
 total number of correction sets 0
-maxsat [ 0 ,  25 ] offset 0
-[(1, 1), (2, 5), (3, 2), (4, 1), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 3), (11, 1), (12, 3)]
+maxsat [ 0 ,  24 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
 []
-New offset 3
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 6 iterations 7 unknown 0
-Reduce 21 -> 6 iterations 7 unknown 0
-Reduce 20 -> 6 iterations 6 unknown 0
-Reduce 19 -> 5 iterations 6 unknown 0
-Reduce 18 -> 5 iterations 5 unknown 0
-Reduce 17 -> 4 iterations 5 unknown 0
-Reduce 16 -> 4 iterations 4 unknown 0
-Reduce 15 -> 4 iterations 4 unknown 0
-Reduce 14 -> 3 iterations 4 unknown 0
-Reduce 13 -> 3 iterations 4 unknown 0
-Reduce 12 -> 3 iterations 3 unknown 0
-Reduce 11 -> 3 iterations 3 unknown 0
-Reduce 10 -> 2 iterations 3 unknown 0
-Reduce 9 -> 2 iterations 2 unknown 0
+New offset 2
+Reduce 31 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 1 iterations 1 unknown 0
+Reduce 11 -> 2 iterations 3 unknown 0
+Reduce 10 -> 2 iterations 2 unknown 0
+Reduce 9 -> 1 iterations 1 unknown 0
 Reduce 8 -> 1 iterations 2 unknown 0
 Reduce 7 -> 1 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 33 33
-27 33 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-improve 33 27
-improve 27 27
-26 unsat
+Reduce 6 -> 1 iterations 1 unknown 0
+Reduce 5 -> 1 iterations 1 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 30
+total number of correction sets 0
+maxsat [ 0 ,  31 ] offset 0
+[(1, 7), (2, 3), (3, 5), (4, 3), (5, 3), (6, 3), (7, 4), (8, 2)]
+[]
+New offset 10
+Reduce 30 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 1 iterations 2 unknown 0
+Reduce 13 -> 3 iterations 3 unknown 0
+Reduce 12 -> 1 iterations 2 unknown 0
+Reduce 11 -> 2 iterations 3 unknown 0
+Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
 Reduce 7 -> 4 iterations 4 unknown 1
-25 unsat
-24 unsat
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+improve 30 30
+24 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 30 24
 23 unsat
 22 unsat
 21 unsat
 20 unsat
 19 unsat
-Reduce 7 -> 3 iterations 4 unknown 0
-18 unsat
 Reduce 7 -> 4 iterations 4 unknown 1
+18 unsat
 17 unsat
 16 unsat
 15 unsat
@@ -1951,850 +1120,72 @@ Reduce 7 -> 4 iterations 4 unknown 1
 11 unsat
 10 unsat
 9 unsat
-Reduce 7 -> 5 iterations 5 unknown 3
 8 unsat
-7 unknown
-6 unknown
-5 unsat
-4 unsat
-3 sat
-31 33 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 0, 2, 2, 2, 0, 0, 0, 0, 0, 0]
-improve 27 25
-rotate max-count 19 num occurrences 2
-Number of plateaus 3
-try-rotate 19
-unknown
-improve 25 25
-rotate-1 done, sat 1 unsat 24
-try-rotate 3
-improve 25 25
-rotate-1 done, sat 1 unsat 25
-try-rotate 18
-improve 25 25
-rotate-1 done, sat 1 unsat 25
-try-rotate 19
-improve 25 25
-rotate-1 done, sat 1 unsat 25
-try-rotate 2
-improve 25 25
-rotate-1 done, sat 1 unsat 25
-2 unsat
-1 unsat
-0 unsat
-Number undetermined 1
-total number of cores 193
-total number of correction sets 9
-maxsat [ 0 ,  25 ] offset 0
-[(1, 16), (2, 4), (3, 8), (4, 26), (5, 3), (6, 3), (8, 108), (9, 13), (11, 1), (12, 2), (13, 2), (14, 2), (15, 2), (16, 3)]
-[(25, 6), (27, 2), (33, 1)]
-New offset 16
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 27 22
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-26 unsat
-25 unsat
-24 unsat
-23 unsat
-22 unsat
-21 unsat
-20 unsat
-19 unsat
-18 unsat
-17 unsat
-16 unsat
-15 unsat
-14 sat
-13 sat
-12 unsat
-11 sat
-26 27 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 22 21
-rotate max-count 0 num occurrences 3
-Number of plateaus 3
-10 sat
-improve 21 21
-9 unsat
-8 unsat
-7 sat
-improve 21 21
+7 unsat
 6 unsat
 5 unsat
 4 unsat
 3 unsat
 2 unsat
-1 sat
-improve 21 21
+1 unsat
 0 unsat
-total number of cores 64
-total number of correction sets 10
-maxsat [ 0 ,  21 ] offset 0
-[(1, 26), (2, 6), (3, 9), (4, 5), (5, 2), (6, 1), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 3)]
-[(21, 4), (22, 1), (24, 1), (25, 1), (26, 1), (27, 2)]
-New offset 21
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 5 iterations 5 unknown 0
-Reduce 21 -> 4 iterations 5 unknown 0
-Reduce 20 -> 4 iterations 4 unknown 0
-Reduce 19 -> 3 iterations 4 unknown 0
-Reduce 18 -> 3 iterations 3 unknown 0
-Reduce 17 -> 2 iterations 3 unknown 0
-Reduce 16 -> 2 iterations 2 unknown 0
-Reduce 15 -> 2 iterations 2 unknown 0
-Reduce 14 -> 1 iterations 2 unknown 0
-Reduce 13 -> 1 iterations 2 unknown 0
+total number of cores 63
+total number of correction sets 2
+maxsat [ 0 ,  24 ] offset 0
+[(1, 36), (2, 4), (3, 7), (4, 7), (5, 2), (6, 2), (7, 3), (8, 2)]
+[(24, 1), (30, 1)]
+New offset 23
+Reduce 22 -> 3 iterations 4 unknown 0
+Reduce 16 -> 3 iterations 4 unknown 0
+Reduce 15 -> 3 iterations 3 unknown 0
+Reduce 14 -> 2 iterations 3 unknown 0
+Reduce 13 -> 2 iterations 2 unknown 0
 Reduce 12 -> 1 iterations 2 unknown 0
-Reduce 11 -> 1 iterations 2 unknown 0
-Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 11 -> 2 iterations 3 unknown 0
+Reduce 10 -> 2 iterations 2 unknown 0
 Reduce 9 -> 1 iterations 2 unknown 0
 Reduce 8 -> 1 iterations 2 unknown 0
 Reduce 7 -> 1 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-unknown
-total number of cores 25
-total number of correction sets 0
-maxsat [ 0 ,  24 ] offset 0
-[(1, 11), (2, 4), (3, 3), (4, 3), (5, 1), (11, 1), (12, 2)]
-[]
-New offset 12
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 6 -> 1 iterations 1 unknown 0
 Reduce 5 -> 2 iterations 2 unknown 0
-unknown
-total number of cores 27
-total number of correction sets 0
-maxsat [ 0 ,  26 ] offset 0
-[(1, 2), (2, 3), (3, 1), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2)]
-[]
-New offset 2
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 22
-total number of correction sets 0
-maxsat [ 0 ,  21 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 3)]
-[]
-New offset 3
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[]
-New offset 2
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 28
-total number of correction sets 0
-maxsat [ 0 ,  27 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 3)]
-[]
-New offset 2
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 41
-total number of correction sets 0
-maxsat [ 0 ,  40 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2), (20, 2)]
-[]
-New offset 2
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 1), (2, 2), (3, 4), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[]
-New offset 2
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  29 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[]
-New offset 3
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 28 -> 13 iterations 14 unknown 0
-Reduce 26 -> 12 iterations 13 unknown 0
-Reduce 26 -> 12 iterations 13 unknown 0
-Reduce 24 -> 11 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 11 unknown 0
-Reduce 23 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 10 unknown 0
-Reduce 20 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 9 unknown 0
-Reduce 19 -> 9 iterations 9 unknown 0
-Reduce 18 -> 8 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 8 unknown 0
-Reduce 16 -> 7 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 7 unknown 0
-Reduce 14 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 4 iterations 4 unknown 1
-Reduce 6 -> 3 iterations 4 unknown 1
-Reduce 5 -> 3 iterations 3 unknown 1
-unknown
-total number of cores 35
-total number of correction sets 0
-maxsat [ 0 ,  37 ] offset 0
-[(3, 2), (4, 4), (5, 2), (6, 3), (7, 2), (8, 2), (9, 3), (10, 1), (11, 3), (12, 2), (13, 1), (14, 1), (15, 2), (16, 2), (17, 3), (18, 2)]
-[]
-New offset 2
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 39
-total number of correction sets 0
-maxsat [ 0 ,  39 ] offset 0
-[(2, 3), (3, 2), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2), (19, 3)]
-[]
-New offset 2
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 5 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 5 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 4 iterations 4 unknown 1
-Reduce 6 -> 3 iterations 4 unknown 1
-unknown
-total number of cores 16
-total number of correction sets 0
-maxsat [ 0 ,  20 ] offset 0
-[(3, 1), (4, 4), (5, 3), (7, 2), (8, 2), (9, 2), (10, 2)]
-[]
-New offset 2
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 8 iterations 9 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 6 unknown 0
-Reduce 14 -> 5 iterations 6 unknown 0
-Reduce 13 -> 5 iterations 5 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 32
-total number of correction sets 0
-maxsat [ 0 ,  31 ] offset 0
-[(1, 1), (2, 2), (3, 5), (4, 4), (5, 2), (6, 2), (7, 2), (8, 3), (11, 2), (12, 2), (13, 2), (14, 2), (15, 3)]
-[]
-New offset 3
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 6 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 6 unknown 0
-Reduce 15 -> 5 iterations 6 unknown 0
-Reduce 14 -> 5 iterations 5 unknown 0
-Reduce 13 -> 4 iterations 5 unknown 0
-Reduce 12 -> 4 iterations 4 unknown 0
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 3 unknown 0
-Reduce 8 -> 2 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 2 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 1 iterations 2 unknown 0
-unknown
-total number of cores 22
-total number of correction sets 0
-maxsat [ 0 ,  21 ] offset 0
-[(1, 2), (2, 4), (3, 3), (4, 4), (5, 2), (6, 2), (9, 2), (10, 3)]
-[]
-New offset 3
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 12 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 12 unknown 0
-Reduce 24 -> 11 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 11 unknown 0
-Reduce 22 -> 10 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 10 unknown 0
-Reduce 20 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 9 unknown 0
-Reduce 18 -> 8 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 30
-total number of correction sets 0
-maxsat [ 0 ,  30 ] offset 0
-[(2, 2), (3, 4), (4, 3), (5, 1), (6, 2), (7, 2), (8, 3), (9, 2), (10, 2), (11, 2), (12, 2), (13, 1), (14, 2), (15, 2)]
-[]
-New offset 2
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 25
-total number of correction sets 0
-maxsat [ 0 ,  24 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
-[]
-New offset 2
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 27
-total number of correction sets 0
-maxsat [ 0 ,  27 ] offset 0
-[(2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 3)]
-[]
-New offset 2
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 5 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-unknown
-total number of cores 27
-total number of correction sets 0
-maxsat [ 0 ,  26 ] offset 0
-[(1, 1), (2, 4), (3, 3), (4, 3), (5, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2)]
-[]
-New offset 3
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 3 iterations 3 unknown 1
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 29 26
-Reduce 5 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 26 25
-27 unsat
-26 unsat
-25 unsat
-24 unsat
-23 unsat
-22 unsat
-21 sat
-20 sat
-19 unsat
-18 unsat
-17 unsat
-16 unsat
+[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 22 16
+improve 16 16
 15 unsat
 14 unsat
 13 unsat
-12 sat
-improve 25 25
+12 unsat
 11 unsat
 10 unsat
 9 unsat
-Reduce 5 -> 5 iterations 3 unknown 4
 8 unsat
-7 sat
-28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0]
-improve 25 24
-rotate max-count 14 num occurrences 1
-Number of plateaus 2
-try-rotate 3
-28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0]
-improve 24 23
-improve 23 23
-rotate-1 done, sat 2 unsat 23
-rotate max-count 20 num occurrences 2
-Number of plateaus 0
-try-rotate 4
-improve 23 23
-rotate-1 done, sat 1 unsat 23
-try-rotate 8
-improve 23 23
-rotate-1 done, sat 1 unsat 23
-try-rotate 20
-improve 23 23
-rotate-1 done, sat 1 unsat 23
-try-rotate 20
-improve 23 23
-rotate-1 done, sat 1 unsat 23
-try-rotate 5
-improve 23 23
-rotate-1 done, sat 1 unsat 23
-try-rotate 8
-improve 23 23
-rotate-1 done, sat 1 unsat 23
+7 unsat
 6 unsat
-5 sat
-improve 23 23
+5 unsat
 4 unsat
 3 unsat
 2 unsat
 1 unsat
 0 unsat
-total number of cores 230
-total number of correction sets 17
-maxsat [ 0 ,  23 ] offset 0
-[(1, 26), (2, 33), (3, 39), (4, 10), (5, 6), (6, 84), (7, 17), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
-[(23, 9), (24, 1), (25, 2), (26, 2), (27, 1), (28, 1), (29, 1)]
-New offset 8
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 40 -> 20 iterations 20 unknown 0
-Reduce 39 -> 19 iterations 20 unknown 0
-Reduce 38 -> 19 iterations 19 unknown 0
-Reduce 37 -> 18 iterations 19 unknown 0
-Reduce 36 -> 18 iterations 18 unknown 0
-Reduce 35 -> 17 iterations 18 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
+total number of cores 36
+total number of correction sets 2
+maxsat [ 0 ,  16 ] offset 0
+[(1, 24), (2, 7), (3, 4), (4, 1)]
+[(16, 2)]
+New offset 16
+Reduce 40 -> 7 iterations 7 unknown 0
+Reduce 16 -> 7 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 6 unknown 0
 Reduce 12 -> 5 iterations 6 unknown 0
 Reduce 11 -> 5 iterations 5 unknown 0
 Reduce 10 -> 5 iterations 5 unknown 0
 Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 1 iterations 2 unknown 0
-Reduce 7 -> 1 iterations 2 unknown 0
-Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
 Reduce 5 -> 1 iterations 2 unknown 0
-unknown
-total number of cores 41
-total number of correction sets 0
-maxsat [ 0 ,  40 ] offset 0
-[(1, 5), (2, 1), (3, 1), (4, 2), (5, 3), (6, 1), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2), (18, 2), (19, 2), (20, 2)]
-[]
-New offset 5
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 8 iterations 9 unknown 0
-Reduce 19 -> 8 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 6 unknown 0
-Reduce 14 -> 5 iterations 6 unknown 0
-Reduce 13 -> 5 iterations 5 unknown 0
-Reduce 12 -> 4 iterations 5 unknown 0
-Reduce 11 -> 4 iterations 5 unknown 0
-Reduce 10 -> 4 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 3 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 3 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 32
-total number of correction sets 0
-maxsat [ 0 ,  31 ] offset 0
-[(1, 1), (2, 2), (3, 5), (4, 4), (5, 2), (6, 2), (7, 2), (8, 2), (10, 1), (11, 2), (12, 2), (13, 2), (14, 2), (15, 3)]
-[]
-New offset 2
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
 Reduce 24 -> 12 iterations 12 unknown 0
 Reduce 23 -> 11 iterations 12 unknown 0
 Reduce 22 -> 11 iterations 11 unknown 0
@@ -2812,222 +1203,170 @@ Reduce 11 -> 5 iterations 6 unknown 0
 Reduce 10 -> 5 iterations 5 unknown 0
 Reduce 9 -> 4 iterations 5 unknown 0
 Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 41
+total number of correction sets 0
+maxsat [ 0 ,  40 ] offset 0
+[(1, 3), (2, 4), (3, 4), (4, 7), (5, 6), (6, 4), (7, 4), (8, 2), (9, 2), (10, 2), (11, 2), (12, 1)]
+[]
+New offset 3
+Reduce 23 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
 Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  23 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 30 -> 7 iterations 8 unknown 0
+Reduce 16 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 30 22
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+29 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
+improve 22 21
+improve 21 21
+20 unsat
+19 unsat
+18 unsat
+Reduce 10 -> 5 iterations 6 unknown 1
+17 unsat
+16 unsat
+Reduce 5 -> 3 iterations 3 unknown 1
+15 unsat
+14 sat
+29 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0]
+improve 21 20
+rotate max-count 2 num occurrences 2
+Number of plateaus 8
+try-rotate 2
+improve 20 20
+rotate-1 done, sat 1 unsat 20
+try-rotate 2
+improve 20 20
+rotate-1 done, sat 1 unsat 20
+13 unsat
+Reduce 5 -> 1 iterations 2 unknown 1
+12 unsat
+11 unsat
+10 unsat
+Reduce 5 -> 1 iterations 1 unknown 0
+9 unsat
+Reduce 5 -> 1 iterations 1 unknown 0
+8 unsat
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 unsat
+2 unsat
+Reduce 11 -> 5 iterations 6 unknown 0
+1 unsat
+0 unsat
+Reduce 5 -> 2 iterations 3 unknown 0
+total number of cores 100
+total number of correction sets 6
+maxsat [ 0 ,  20 ] offset 0
+[(1, 51), (2, 8), (3, 10), (4, 7), (5, 7), (6, 4), (7, 5), (10, 2), (11, 6)]
+[(20, 3), (21, 2), (22, 1)]
+New offset 19
+Reduce 25 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 3 iterations 3 unknown 0
+Reduce 13 -> 3 iterations 3 unknown 0
+Reduce 12 -> 2 iterations 3 unknown 0
+Reduce 11 -> 2 iterations 2 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  25 ] offset 0
+[(1, 1), (2, 4), (3, 5), (4, 3), (5, 1), (7, 1), (8, 2)]
+[]
+New offset 4
+Reduce 33 -> 1 iterations 1 unknown 0
+Reduce 16 -> 1 iterations 1 unknown 0
+Reduce 15 -> 1 iterations 1 unknown 0
+Reduce 14 -> 1 iterations 1 unknown 0
+Reduce 13 -> 5 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 16 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
 Reduce 6 -> 3 iterations 3 unknown 0
 Reduce 5 -> 2 iterations 3 unknown 0
 unknown
 total number of cores 33
 total number of correction sets 0
-maxsat [ 0 ,  32 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2)]
+maxsat [ 0 ,  33 ] offset 0
+[(1, 6), (2, 9), (3, 6), (4, 7), (5, 1), (6, 2), (7, 2)]
 []
-New offset 3
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+New offset 8
+Reduce 27 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
 Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 3 iterations 4 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 18
-total number of correction sets 0
-maxsat [ 0 ,  17 ] offset 0
-[(1, 1), (2, 2), (3, 4), (4, 2), (5, 2), (6, 2), (7, 2), (8, 3)]
-[]
-New offset 2
-Reduce 30 -> 14 iterations 15 unknown 0
-Reduce 30 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 14 unknown 0
-Reduce 28 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 13 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 6 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 6 unknown 0
-Reduce 12 -> 5 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 30 30
-Reduce 8 -> 1 iterations 3 unknown 1
-Reduce 10 -> 5 iterations 6 unknown 1
-21 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 30 21
-Reduce 9 -> 5 iterations 5 unknown 1
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-improve 21 21
-20 unsat
-19 unsat
-Reduce 10 -> 5 iterations 6 unknown 1
-18 unsat
-17 unsat
-16 unsat
-Reduce 10 -> 5 iterations 5 unknown 0
-15 unsat
-14 unsat
-13 unsat
-12 unknown
-11 unsat
-Reduce 5 -> 2 iterations 3 unknown 0
-10 unsat
-9 unsat
-8 unsat
-7 unsat
-6 sat
-29 30 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 21 20
-rotate max-count 4 num occurrences 1
-Number of plateaus 8
-try-rotate 2
-improve 20 20
-rotate-1 done, sat 1 unsat 20
-try-rotate 4
-improve 20 20
-rotate-1 done, sat 1 unsat 20
-5 unsat
-Reduce 5 -> 3 iterations 3 unknown 1
-4 unsat
-3 unsat
-2 unsat
-1 unsat
-Reduce 5 -> 2 iterations 3 unknown 0
-0 unsat
-Number undetermined 1
-total number of cores 99
-total number of correction sets 6
-maxsat [ 0 ,  20 ] offset 0
-[(1, 38), (2, 7), (3, 6), (4, 4), (5, 7), (6, 2), (7, 1), (8, 2), (9, 2), (10, 19), (11, 3), (12, 2), (13, 3), (14, 3)]
-[(20, 3), (21, 2), (30, 1)]
-New offset 15
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-unknown
-total number of cores 20
-total number of correction sets 0
-maxsat [ 0 ,  19 ] offset 0
-[(1, 1), (2, 4), (3, 1), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 3)]
-[]
-New offset 3
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 4 iterations 5 unknown 0
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 28
-total number of correction sets 0
-maxsat [ 0 ,  27 ] offset 0
-[(1, 1), (2, 4), (3, 1), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 3)]
-[]
-New offset 2
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 34 -> 17 iterations 17 unknown 0
-Reduce 33 -> 16 iterations 17 unknown 0
-Reduce 32 -> 16 iterations 16 unknown 0
-Reduce 31 -> 15 iterations 16 unknown 0
-Reduce 30 -> 15 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
-Reduce 16 -> 8 iterations 8 unknown 0
-Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 7 iterations 7 unknown 0
-Reduce 13 -> 6 iterations 7 unknown 0
-Reduce 12 -> 6 iterations 6 unknown 0
-Reduce 11 -> 5 iterations 6 unknown 0
-Reduce 10 -> 5 iterations 5 unknown 0
-Reduce 9 -> 5 iterations 5 unknown 1
-Reduce 8 -> 4 iterations 4 unknown 0
-Reduce 7 -> 3 iterations 4 unknown 0
-Reduce 6 -> 3 iterations 3 unknown 0
-Reduce 5 -> 2 iterations 3 unknown 0
-unknown
-total number of cores 35
-total number of correction sets 0
-maxsat [ 0 ,  34 ] offset 0
-[(1, 1), (2, 2), (3, 3), (4, 2), (5, 3), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
-[]
-New offset 1
-Reduce 22 -> 8 iterations 8 unknown 0
-Reduce 22 -> 8 iterations 8 unknown 0
-Reduce 21 -> 8 iterations 8 unknown 0
-Reduce 20 -> 8 iterations 8 unknown 0
-Reduce 19 -> 7 iterations 8 unknown 0
-Reduce 18 -> 7 iterations 8 unknown 0
-Reduce 17 -> 7 iterations 7 unknown 0
-Reduce 16 -> 6 iterations 7 unknown 0
-Reduce 15 -> 6 iterations 6 unknown 0
-Reduce 14 -> 6 iterations 6 unknown 0
 Reduce 13 -> 5 iterations 6 unknown 0
 Reduce 12 -> 5 iterations 5 unknown 0
 Reduce 11 -> 4 iterations 5 unknown 0
@@ -3035,43 +1374,281 @@ Reduce 10 -> 4 iterations 4 unknown 0
 Reduce 9 -> 3 iterations 4 unknown 0
 Reduce 8 -> 3 iterations 3 unknown 0
 Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
-Reduce 5 -> 2 iterations 2 unknown 0
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-improve 22 22
-Reduce 11 -> 4 iterations 4 unknown 0
-Reduce 10 -> 3 iterations 4 unknown 0
-Reduce 9 -> 3 iterations 3 unknown 0
-Reduce 8 -> 2 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 3 unknown 0
-Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 27 21
 Reduce 5 -> 1 iterations 2 unknown 0
-20 22 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-improve 22 20
+23 unsat
+22 sat
+improve 21 21
+21 unsat
+20 unsat
 19 unsat
 18 unsat
-17 unknown
+17 unsat
+16 unsat
+Reduce 5 -> 3 iterations 3 unknown 1
+15 unsat
+14 unsat
+Reduce 5 -> 5 iterations 3 unknown 4
+13 sat
+improve 21 21
+12 unsat
+11 unsat
+10 unsat
+9 unsat
+8 unsat
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 unsat
+2 unsat
+1 sat
+improve 21 21
+0 unsat
+total number of cores 56
+total number of correction sets 6
+maxsat [ 0 ,  21 ] offset 0
+[(1, 20), (2, 7), (3, 9), (4, 10), (5, 5), (6, 1), (7, 2), (8, 2)]
+[(21, 4), (23, 1), (24, 1)]
+New offset 19
+Reduce 24 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 1 iterations 1 unknown 0
+Reduce 14 -> 1 iterations 1 unknown 0
+Reduce 13 -> 1 iterations 1 unknown 0
+Reduce 12 -> 1 iterations 1 unknown 0
+Reduce 11 -> 1 iterations 1 unknown 0
+Reduce 10 -> 1 iterations 1 unknown 0
+Reduce 9 -> 1 iterations 1 unknown 0
+Reduce 8 -> 1 iterations 1 unknown 0
+Reduce 7 -> 1 iterations 1 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 1 unknown 0
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 24 23
+23 unsat
+22 unsat
+21 unsat
+20 unsat
+19 unsat
+18 unsat
+17 unsat
 16 unsat
 15 unsat
-14 sat
-18 22 [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0]
-improve 20 16
-rotate max-count 4 num occurrences 2
+14 unsat
+13 unsat
+12 unsat
+11 sat
+23 24 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+improve 23 22
+rotate max-count 0 num occurrences 1
 Number of plateaus 1
-try-rotate 4
-improve 16 16
-improve 16 16
-improve 16 16
-improve 16 16
-rotate-1 done, sat 4 unsat 16
-try-rotate 4
-improve 16 16
-improve 16 16
-improve 16 16
-improve 16 16
-rotate-1 done, sat 4 unsat 16
+10 unsat
+9 unsat
+8 sat
+improve 22 22
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 unsat
+2 unsat
+1 unsat
+0 unsat
+total number of cores 56
+total number of correction sets 5
+maxsat [ 0 ,  22 ] offset 0
+[(1, 39), (2, 6), (3, 5), (4, 4), (8, 2)]
+[(22, 2), (23, 1), (24, 2)]
+New offset 22
+Reduce 25 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 1 iterations 2 unknown 0
+Reduce 12 -> 1 iterations 2 unknown 0
+Reduce 11 -> 1 iterations 2 unknown 0
+Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 9 -> 3 iterations 4 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+unknown
+total number of cores 20
+total number of correction sets 0
+maxsat [ 0 ,  26 ] offset 0
+[(1, 10), (2, 1), (3, 1), (4, 3), (5, 1), (7, 2), (8, 2)]
+[]
+New offset 10
+Reduce 21 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  21 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 29 -> 7 iterations 8 unknown 0
+Reduce 16 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 7 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 2), (6, 2), (7, 4)]
+[]
+New offset 3
+Reduce 27 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  27 ] offset 0
+[(1, 1), (2, 2), (3, 6), (4, 6), (5, 3), (6, 3), (7, 2), (8, 2)]
+[]
+New offset 4
+Reduce 40 -> 1 iterations 1 unknown 0
+Reduce 16 -> 1 iterations 1 unknown 0
+Reduce 15 -> 1 iterations 1 unknown 0
+Reduce 14 -> 1 iterations 1 unknown 0
+Reduce 13 -> 1 iterations 1 unknown 0
+Reduce 12 -> 1 iterations 1 unknown 0
+Reduce 11 -> 3 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 3 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 20 -> 10 iterations 11 unknown 1
+Reduce 19 -> 10 iterations 10 unknown 1
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 40
+total number of correction sets 0
+maxsat [ 0 ,  40 ] offset 0
+[(1, 9), (2, 6), (3, 5), (4, 6), (5, 3), (6, 3), (7, 3), (8, 1), (9, 2), (10, 2)]
+[]
+New offset 11
+Reduce 29 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 1 iterations 1 unknown 0
+Reduce 13 -> 1 iterations 1 unknown 0
+Reduce 12 -> 1 iterations 1 unknown 0
+Reduce 11 -> 2 iterations 2 unknown 0
+Reduce 10 -> 1 iterations 1 unknown 0
+Reduce 9 -> 1 iterations 2 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 1 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+improve 29 29
+improve 29 29
+28 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 29 28
+27 unsat
+26 unsat
+25 unsat
+24 unsat
+23 sat
+27 29 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0]
+improve 28 26
+rotate max-count 0 num occurrences 2
+Number of plateaus 2
+22 unsat
+21 unsat
+20 unsat
+19 unsat
+18 unsat
+17 unsat
+16 unsat
+15 unsat
+14 unsat
 13 unsat
 12 unsat
 11 unsat
@@ -3079,67 +1656,149 @@ rotate-1 done, sat 4 unsat 16
 9 unsat
 8 unsat
 7 sat
-improve 16 16
-6 sat
-improve 16 16
+improve 26 26
+6 unsat
 5 unsat
-Reduce 6 -> 3 iterations 3 unknown 0
 4 unsat
 3 unsat
 2 unsat
 1 unsat
-0 sat
-improve 16 16
-Number undetermined 1
-total number of cores 84
-total number of correction sets 15
-maxsat [ 0 ,  16 ] offset 0
-[(1, 4), (2, 13), (3, 36), (4, 8), (5, 2), (6, 13), (7, 4), (8, 4)]
-[(16, 12), (20, 1), (21, 1), (22, 1)]
-New offset 9
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+0 unsat
+total number of cores 67
+total number of correction sets 5
+maxsat [ 0 ,  26 ] offset 0
+[(1, 43), (2, 7), (3, 7), (4, 6), (5, 1), (7, 1), (8, 2)]
+[(26, 2), (28, 1), (29, 2)]
+New offset 26
+Reduce 29 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
-Reduce 14 -> 3 iterations 4 unknown 0
-Reduce 13 -> 3 iterations 4 unknown 0
-Reduce 12 -> 3 iterations 3 unknown 0
-Reduce 11 -> 3 iterations 3 unknown 0
-Reduce 10 -> 3 iterations 3 unknown 0
-Reduce 9 -> 2 iterations 3 unknown 0
-Reduce 8 -> 2 iterations 3 unknown 0
-Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(1, 1), (2, 2), (3, 4), (4, 3), (5, 1), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 35 -> 6 iterations 6 unknown 0
+Reduce 16 -> 6 iterations 6 unknown 0
+Reduce 15 -> 5 iterations 6 unknown 0
+Reduce 14 -> 5 iterations 5 unknown 0
+Reduce 13 -> 4 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 21 -> 11 iterations 11 unknown 1
+Reduce 20 -> 10 iterations 11 unknown 1
+Reduce 19 -> 10 iterations 10 unknown 1
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 36
+total number of correction sets 0
+maxsat [ 0 ,  37 ] offset 0
+[(1, 2), (2, 4), (3, 7), (4, 7), (5, 4), (6, 3), (7, 3), (8, 1), (9, 2), (10, 2), (11, 1)]
+[]
+New offset 4
+Reduce 39 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 23 -> 12 iterations 12 unknown 1
+Reduce 22 -> 11 iterations 12 unknown 1
+Reduce 21 -> 11 iterations 11 unknown 1
+Reduce 20 -> 10 iterations 11 unknown 1
+Reduce 19 -> 10 iterations 10 unknown 1
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 40
+total number of correction sets 0
+maxsat [ 0 ,  39 ] offset 0
+[(1, 4), (2, 4), (3, 3), (4, 6), (5, 4), (6, 4), (7, 4), (8, 4), (9, 2), (10, 2), (11, 2), (12, 1)]
+[]
+New offset 6
+Reduce 20 -> 6 iterations 7 unknown 0
+Reduce 16 -> 6 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 6 unknown 0
+Reduce 14 -> 5 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 4 unknown 0
+Reduce 8 -> 3 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
 Reduce 6 -> 2 iterations 2 unknown 0
 Reduce 5 -> 2 iterations 2 unknown 0
 unknown
-total number of cores 25
+total number of cores 17
 total number of correction sets 0
-maxsat [ 0 ,  24 ] offset 0
-[(1, 1), (2, 6), (3, 6), (4, 1), (7, 1), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2)]
+maxsat [ 0 ,  20 ] offset 0
+[(1, 1), (2, 4), (3, 4), (4, 3), (5, 2), (6, 3)]
 []
-New offset 2
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 29 -> 14 iterations 15 unknown 0
-Reduce 28 -> 14 iterations 14 unknown 0
-Reduce 27 -> 13 iterations 14 unknown 0
-Reduce 26 -> 13 iterations 13 unknown 0
-Reduce 25 -> 12 iterations 13 unknown 0
-Reduce 24 -> 12 iterations 12 unknown 0
-Reduce 23 -> 11 iterations 12 unknown 0
-Reduce 22 -> 11 iterations 11 unknown 0
-Reduce 21 -> 10 iterations 11 unknown 0
-Reduce 20 -> 10 iterations 10 unknown 0
-Reduce 19 -> 9 iterations 10 unknown 0
-Reduce 18 -> 9 iterations 9 unknown 0
-Reduce 17 -> 8 iterations 9 unknown 0
+New offset 3
+Reduce 31 -> 8 iterations 8 unknown 0
 Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 2 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
 Reduce 15 -> 7 iterations 8 unknown 0
 Reduce 14 -> 7 iterations 7 unknown 0
 Reduce 13 -> 6 iterations 7 unknown 0
@@ -3148,14 +1807,462 @@ Reduce 11 -> 5 iterations 6 unknown 0
 Reduce 10 -> 5 iterations 6 unknown 1
 Reduce 9 -> 5 iterations 5 unknown 1
 Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 30
+total number of correction sets 0
+maxsat [ 0 ,  31 ] offset 0
+[(1, 4), (2, 2), (3, 5), (4, 4), (5, 5), (6, 4), (7, 4), (8, 2)]
+[]
+New offset 6
+Reduce 20 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 3 iterations 3 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  21 ] offset 0
+[(1, 3), (2, 3), (3, 3), (4, 1), (5, 1), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 4
+Reduce 30 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 29
+total number of correction sets 0
+maxsat [ 0 ,  30 ] offset 0
+[(1, 2), (2, 1), (3, 7), (4, 5), (5, 5), (6, 5), (7, 2), (8, 2)]
+[]
+New offset 5
+Reduce 24 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 1 iterations 1 unknown 0
+Reduce 13 -> 1 iterations 1 unknown 0
+Reduce 12 -> 1 iterations 1 unknown 0
+Reduce 11 -> 1 iterations 1 unknown 0
+Reduce 10 -> 1 iterations 2 unknown 0
+Reduce 9 -> 1 iterations 1 unknown 0
+Reduce 8 -> 1 iterations 1 unknown 0
+Reduce 7 -> 1 iterations 1 unknown 0
+Reduce 6 -> 1 iterations 1 unknown 0
+Reduce 5 -> 1 iterations 1 unknown 0
+Reduce 8 -> 4 iterations 5 unknown 1
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 25
+total number of correction sets 0
+maxsat [ 0 ,  24 ] offset 0
+[(1, 12), (2, 2), (3, 5), (4, 3), (7, 1), (8, 2)]
+[]
+New offset 13
+Reduce 27 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 5 unknown 0
+unknown
+total number of cores 19
+total number of correction sets 0
+maxsat [ 0 ,  27 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 3), (6, 3), (7, 2), (8, 2)]
+[]
+New offset 2
+Reduce 26 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+unknown
+total number of cores 19
+total number of correction sets 0
+maxsat [ 0 ,  26 ] offset 0
+[(1, 2), (2, 4), (3, 3), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 3
+Reduce 29 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 4 iterations 4 unknown 1
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 30
+total number of correction sets 0
+maxsat [ 0 ,  29 ] offset 0
+[(1, 2), (2, 3), (3, 6), (4, 6), (5, 4), (6, 4), (7, 3), (8, 2)]
+[]
+New offset 3
+Reduce 40 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 1 iterations 1 unknown 0
+Reduce 6 -> 1 iterations 1 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 4 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 3 iterations 3 unknown 1
+unknown
+total number of cores 41
+total number of correction sets 0
+maxsat [ 0 ,  40 ] offset 0
+[(1, 10), (2, 4), (3, 6), (4, 7), (5, 3), (6, 4), (7, 4), (8, 3)]
+[]
+New offset 13
+Reduce 31 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 3 iterations 3 unknown 0
+Reduce 12 -> 3 iterations 3 unknown 0
+Reduce 11 -> 2 iterations 3 unknown 0
+Reduce 10 -> 2 iterations 2 unknown 0
+Reduce 9 -> 2 iterations 2 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 32
+total number of correction sets 0
+maxsat [ 0 ,  31 ] offset 0
+[(1, 6), (2, 6), (3, 6), (4, 4), (5, 2), (6, 1), (7, 4), (8, 3)]
+[]
+New offset 8
+Reduce 32 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 3 iterations 3 unknown 0
+Reduce 10 -> 2 iterations 3 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 32
+total number of correction sets 0
+maxsat [ 0 ,  32 ] offset 0
+[(1, 2), (2, 9), (3, 4), (4, 4), (5, 1), (6, 5), (7, 4), (8, 3)]
+[]
+New offset 5
+Reduce 17 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 6 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 5 unknown 0
+Reduce 10 -> 4 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  17 ] offset 0
+[(1, 1), (2, 2), (3, 3), (4, 4), (5, 2), (6, 2), (7, 1), (8, 2)]
+[]
+New offset 2
+Reduce 30 -> 5 iterations 5 unknown 0
+Reduce 16 -> 5 iterations 5 unknown 0
+Reduce 15 -> 4 iterations 5 unknown 0
+Reduce 14 -> 4 iterations 4 unknown 0
+Reduce 13 -> 3 iterations 4 unknown 0
+Reduce 12 -> 3 iterations 4 unknown 0
+Reduce 11 -> 3 iterations 3 unknown 0
+Reduce 10 -> 3 iterations 3 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 3 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 3 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 4 unknown 0
+unknown
+total number of cores 24
+total number of correction sets 0
+maxsat [ 0 ,  30 ] offset 0
+[(1, 2), (2, 4), (3, 6), (4, 4), (5, 4), (6, 2), (7, 2)]
+[]
+New offset 4
+Reduce 18 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 1 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+unknown
+total number of cores 17
+total number of correction sets 0
+maxsat [ 0 ,  19 ] offset 0
+[(1, 5), (2, 1), (3, 1), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 5
+Reduce 27 -> 7 iterations 8 unknown 0
+Reduce 16 -> 7 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 5 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 5 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 3 unknown 0
+Reduce 7 -> 2 iterations 2 unknown 0
+Reduce 6 -> 2 iterations 2 unknown 0
+Reduce 5 -> 1 iterations 2 unknown 0
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+unknown
+total number of cores 20
+total number of correction sets 0
+maxsat [ 0 ,  27 ] offset 0
+[(1, 2), (2, 5), (3, 2), (4, 3), (5, 3), (6, 1), (7, 4)]
+[]
+New offset 3
+Reduce 34 -> 5 iterations 5 unknown 0
+Reduce 16 -> 5 iterations 5 unknown 0
+Reduce 15 -> 5 iterations 5 unknown 0
+Reduce 14 -> 5 iterations 5 unknown 0
+Reduce 13 -> 4 iterations 5 unknown 0
+Reduce 12 -> 4 iterations 4 unknown 0
+Reduce 11 -> 4 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 4 unknown 0
+Reduce 9 -> 3 iterations 3 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+Reduce 18 -> 9 iterations 10 unknown 1
+Reduce 17 -> 9 iterations 9 unknown 1
+Reduce 16 -> 8 iterations 9 unknown 1
+Reduce 15 -> 8 iterations 8 unknown 1
+Reduce 14 -> 7 iterations 8 unknown 1
+Reduce 13 -> 7 iterations 7 unknown 1
+Reduce 12 -> 6 iterations 7 unknown 1
+Reduce 11 -> 6 iterations 6 unknown 1
+Reduce 10 -> 5 iterations 6 unknown 1
+Reduce 9 -> 5 iterations 5 unknown 1
+Reduce 8 -> 4 iterations 5 unknown 1
 Reduce 7 -> 4 iterations 4 unknown 1
 Reduce 6 -> 3 iterations 4 unknown 1
 Reduce 5 -> 3 iterations 3 unknown 1
 unknown
-total number of cores 26
+total number of cores 33
+total number of correction sets 0
+maxsat [ 0 ,  34 ] offset 0
+[(1, 1), (2, 2), (3, 8), (4, 8), (5, 6), (6, 2), (7, 2), (8, 2), (9, 2)]
+[]
+New offset 3
+Reduce 22 -> 3 iterations 4 unknown 0
+Reduce 16 -> 3 iterations 4 unknown 0
+Reduce 15 -> 3 iterations 3 unknown 0
+Reduce 14 -> 4 iterations 4 unknown 0
+Reduce 13 -> 3 iterations 3 unknown 0
+Reduce 12 -> 3 iterations 3 unknown 0
+Reduce 11 -> 3 iterations 4 unknown 0
+Reduce 10 -> 3 iterations 3 unknown 0
+Reduce 9 -> 2 iterations 3 unknown 0
+Reduce 8 -> 2 iterations 2 unknown 0
+Reduce 7 -> 1 iterations 2 unknown 0
+Reduce 6 -> 1 iterations 2 unknown 0
+Reduce 5 -> 2 iterations 2 unknown 0
+[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+improve 22 16
+improve 16 16
+15 unsat
+14 unsat
+13 unsat
+12 unsat
+11 unsat
+10 unsat
+9 unsat
+8 unsat
+7 unsat
+6 unsat
+5 unsat
+4 unsat
+3 unsat
+2 unsat
+1 unsat
+0 unsat
+total number of cores 37
+total number of correction sets 2
+maxsat [ 0 ,  16 ] offset 0
+[(1, 20), (2, 6), (3, 8), (4, 3)]
+[(16, 2)]
+New offset 16
+Reduce 24 -> 8 iterations 8 unknown 0
+Reduce 16 -> 8 iterations 8 unknown 0
+Reduce 15 -> 7 iterations 8 unknown 0
+Reduce 14 -> 7 iterations 7 unknown 0
+Reduce 13 -> 6 iterations 7 unknown 0
+Reduce 12 -> 6 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 1 iterations 1 unknown 0
+Reduce 9 -> 1 iterations 1 unknown 0
+Reduce 8 -> 1 iterations 1 unknown 0
+Reduce 7 -> 1 iterations 1 unknown 0
+Reduce 6 -> 2 iterations 3 unknown 0
+Reduce 5 -> 1 iterations 1 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 4 unknown 1
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 24
+total number of correction sets 0
+maxsat [ 0 ,  24 ] offset 0
+[(1, 7), (2, 3), (3, 4), (4, 3), (5, 1), (6, 2), (7, 2), (8, 2)]
+[]
+New offset 8
+Reduce 29 -> 7 iterations 7 unknown 0
+Reduce 16 -> 7 iterations 7 unknown 0
+Reduce 15 -> 6 iterations 7 unknown 0
+Reduce 14 -> 6 iterations 6 unknown 0
+Reduce 13 -> 5 iterations 6 unknown 0
+Reduce 12 -> 5 iterations 6 unknown 0
+Reduce 11 -> 5 iterations 6 unknown 0
+Reduce 10 -> 5 iterations 5 unknown 0
+Reduce 9 -> 4 iterations 5 unknown 0
+Reduce 8 -> 4 iterations 4 unknown 0
+Reduce 7 -> 3 iterations 4 unknown 0
+Reduce 6 -> 3 iterations 3 unknown 0
+Reduce 5 -> 2 iterations 3 unknown 0
+unknown
+total number of cores 17
 total number of correction sets 0
 maxsat [ 0 ,  29 ] offset 0
-[(3, 2), (4, 2), (5, 3), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 3)]
+[(1, 1), (2, 2), (3, 3), (4, 3), (5, 4), (6, 2), (7, 2)]
 []
-New offset 1
+New offset 3
 Wrong files:

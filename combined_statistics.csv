@@ -1,5 +1,5 @@
-,category,hitting_set_time,z3_time,oms_time,hitting_set_instructions_saved,z3_instructions_saved,oms_instructions_saved,hitting_set_#found_optimal,z3_#found_optimal,oms_#found_optimal
-0,model_found,4906.93,4245.154,2469.19,213,108,171,60,84,102
-1,no_model_found_oms,760.17,750.006,751.671,25,0,0,0,0,0
-2,no_model_found_z3,530.99,529.896,523.332,20,0,26,1,0,2
-3,no_model_found,2418.58,2410.466,2416.295,40,0,0,0,0,0
+,category,hitting_set_time,z3_time,oms_time,hitting_set_instructions_saved,z3_instructions_saved,oms_instructions_saved,hitting_set_#model,z3_#model,oms_#model,hitting_set_#optimal,z3_#optimal,oms_#optimal
+0,model_found_times_cost,4007.9,4245.1539999999995,2469.19,230.0,108.0,171.0,123,127,127,100,84,102
+1,no_model_found_oms_times_cost,761.48,750.0060000000001,751.671,20.0,0.0,0.0,14,22,0,0,0,0
+2,no_model_found_z3_times_cost,558.3900000000001,529.8960000000001,523.3320000000001,27.0,0.0,26.0,10,0,15,0,0,2
+3,no_model_found_times_cost,2470.35,2410.4660000000003,2416.295,65.0,0.0,0.0,13,0,0,0,0,0
